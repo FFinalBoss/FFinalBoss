@@ -1,5 +1,3 @@
-1
-
 ### "Oi, eu sou a Ana Caroline" 👋
 
 - 🔭 Atualmente procurando um estágio
