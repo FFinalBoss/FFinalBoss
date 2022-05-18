@@ -1,6 +1,6 @@
 ### "Oi, eu sou a Ana Caroline" 👋
 
-- 🔭 Atualmente procurando um estágio
+- 🔭 Atualmente evoluindo o meu código
 - 🌱 Estudando na Estácio de Sá
 - 📫 E-mail de contato: anacarolinesan18@gmail.com
 - 😄 Pronouns: Ela/Dela
