@@ -1,4 +1,4 @@
-### "Olá amantes de tecnologia" 👋
+### "Olá" 👋
 
 - 🔭 Atualmente evoluindo o meu código
 - 🌱 Estudando na Estácio de Sá
