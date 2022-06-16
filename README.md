@@ -1,4 +1,4 @@
-### "Olá" 👋
+### "Bem-vindo(a)!" 👋
 
 - 🔭 Atualmente evoluindo o meu código
 - 🌱 Estudando na Estácio de Sá
