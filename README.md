@@ -1,4 +1,4 @@
-### "Olá Devs" 👋
+### "Olá amantes de tecnologia" 👋
 
 - 🔭 Atualmente evoluindo o meu código
 - 🌱 Estudando na Estácio de Sá
@@ -26,7 +26,7 @@
 
 <div>
   <a href="https://www.instagram.com/anacaroline.vasconcellos/" target="_blank"><img align="center" height="30" width="70" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/StormX_001" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
+  <a href="https://twitter.com/carol_crf10" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-caroline-vasconcellos/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
   
 ![Snake animation](https://github.com/FFinalBoss/FFinalBoss/blob/output/github-contribution-grid-snake.svg)
