@@ -29,6 +29,6 @@
   <a href="https://twitter.com/carol_crf10" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-caroline-vasconcellos/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
   
-![Snake animation](https://github.com/JovemDevv/JovemDevv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JovemDevv/FFinalBoss/blob/output/github-contribution-grid-snake.svg)
  
 </div>
