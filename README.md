@@ -6,7 +6,7 @@
 - 😄 Pronouns: Ela/Dela
 - 
 <div>
-  <a href="https://github.com/FFinalBoss">
+  <a href="https://github.com/JovemDevv">
   <img height="180em" src="http://github-readme-stats.vercel.app/api?username=FFinalBoss&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=FFinalBoss&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
@@ -29,6 +29,6 @@
   <a href="https://twitter.com/carol_crf10" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-caroline-vasconcellos/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
   
-![Snake animation](https://github.com/FFinalBoss/FFinalBoss/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JovemDevv/JovemDevv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
