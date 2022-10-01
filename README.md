@@ -5,10 +5,10 @@
 - 📫 E-mail de contato: anacarolinesan18@gmail.com
 - 😄 Pronouns: Ela/Dela
 - 
-<div>
+<div align="center">
   <a href="https://github.com/JovemDevv">
-  <img height="180em" src="http://github-readme-stats.vercel.app/api?username=FFinalBoss&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=FFinalBoss&layout=compact&langs_count=16&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JovemDevv&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovemDevv&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 <div style="display: inline_block"><br>
