@@ -12,7 +12,7 @@
 ***
 - 📧 E-mail de contato: vasconcellos_2008@outlook.com
 - 🎯 Amante de tecnologias.
-- 🎓 Estudante de **Análise e desenvolvimento de sistemas** e sempre buscando evolução.
+- 🎓 Uma eterna estudante!
 
 ***
 
