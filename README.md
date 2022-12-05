@@ -10,7 +10,7 @@
 
 
 ***
-- 📧 E-mail de contato: anacarolinesan18@gmail.com
+- 📧 E-mail de contato: vasconcellos_2008@outlook.com
 - 🎯 Amante de tecnologias.
 - 🎓 Estudante de **Análise e desenvolvimento de sistemas** e sempre buscando evolução.
 
