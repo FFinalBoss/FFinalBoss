@@ -21,6 +21,7 @@
   <img height="150rm" src="https://github-readme-stats.vercel.app/api?username=JovemDevv&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>        
     <img height="150em"  src="https://streak-stats.demolab.com?user=JovemDevv&theme=merko&locale=pt-br&date_format=j%20M%5B%20Y%5D">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovemDevv&layout=compact&langs_count=7&theme=merko"/>
+          
 </div>
   
 
@@ -30,8 +31,8 @@
  <img align="center" alt="Carol-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
- <img align="center" alt="Carol-AdobePht" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
  <img align="center" alt="Carol-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">      
+          
 </div>
 
 ##
