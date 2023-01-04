@@ -1,5 +1,7 @@
 <h1 align="center">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu sou a Ana Caroline</h1>
 
+👩‍💻Desenvolvedora de software👩‍💻 com experiência em Python e JavaScript, interessada em cyber segurança e sempre procurando aprender coisas novas.
+
 <div align="center">
    <img height="380em" src="https://c.tenor.com/yAZPoxFg7O4AAAAd/naruto-homework.gif"/>
 </div>
@@ -25,16 +27,19 @@
           
 </div>
   
+## Habilidades
 
-<div align="center" style="display: inline_block"><br>
- <img align="center" alt="Carol-Lnx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
- <img align="center" alt="Carol-Lnx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
- <img align="center" alt="Carol-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img align="center" alt="Carol-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
- <img align="center" alt="Carol-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
- <img align="center" alt="Carol-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">      
+* Linguagens de programação: <img align="center" alt="Carol-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Carol-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+* Frameworks: 
+   <img align="center" alt="Carol-Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+   <img align="center" alt="Carol-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+   <img align="center" alt="Carol-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />    
           
-</div>
+* Sistemas operacionais: <img align="center" alt="Carol-Lnx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+   <img align="center" alt="Carol-Lnx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+ 
+* Versionamento de código: <img align="center" alt="Carol-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 ##
 
