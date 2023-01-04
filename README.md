@@ -10,6 +10,7 @@
 
 
 ***
+- 📚 Cursando Analise e Desenvolvimento de sistemas
 - 📧 E-mail de contato: vasconcellos_2008@outlook.com
 - 🎯 Amante de tecnologias.
 - 🎓 Uma eterna estudante!
@@ -42,3 +43,5 @@
   ![Snake animation](https://github.com/JovemDevv/JovemDevv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+   
+   ![](https://komarev.com/ghpvc/?username=JovemDevv)
