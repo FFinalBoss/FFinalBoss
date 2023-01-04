@@ -14,7 +14,6 @@
 ***
 - 📚 Cursando Analise e Desenvolvimento de sistemas
 - 📧 E-mail de contato: vasconcellos_2008@outlook.com
-- 🎯 Amante de tecnologias.
 - 🎓 Uma eterna estudante!
 
 ***
