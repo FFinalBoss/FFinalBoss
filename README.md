@@ -44,12 +44,6 @@
  
 * Versionamento de código: <img align="center" alt="Carol-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
-##
 
-<div align="center">
-
-  ![Snake animation](https://github.com/JovemDevv/JovemDevv/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
    
    ![](https://komarev.com/ghpvc/?username=JovemDevv)
