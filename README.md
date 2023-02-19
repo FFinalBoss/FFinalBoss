@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu sou a Ana Caroline</h1>
+<h1 align="center">Bem vindo! <img src="https://th.bing.com/th/id/R.f8038cfd8b1441dfc72861764de43788?rik=CRoLi8e7eUAu7Q&riu=http%3a%2f%2fwww.iovivoaroma.org%2fpublic%2fimages%2f5_86.gif&ehk=xRXUaoTFkFtb8bomS6QGxGs3%2fKUsT4oQVwdjoFQm3oY%3d&risl=&pid=ImgRaw&r=0" height="50" alt="ola" width="50px" alt="hand_saying_ hi"> eu sou a Ana Caroline</h1>
 
 👩‍💻Desenvolvedora de software👩‍💻 com experiência em Python e JavaScript, interessada em cyber segurança e sempre procurando aprender coisas novas.
 
