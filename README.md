@@ -3,10 +3,6 @@
 👩‍💻Desenvolvedora de software👩‍💻 com experiência em Python e JavaScript, interessada em segurança web e sempre procurando aprender coisas novas.
 
 <div align="center">
-   <img height="380em" src="https://c.tenor.com/yAZPoxFg7O4AAAAd/naruto-homework.gif"/>
-</div>
-
-<div align="center">
 <a href="https://www.instagram.com/anacaroline.vasconcellos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-caroline-vasconcellos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
