@@ -14,9 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/JovemDevv">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JovemDevv&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>        
-    <img height="140em"  src="https://streak-stats.demolab.com?user=JovemDevv&theme=merko&locale=pt-br&date_format=j%20M%5B%20Y%5D"/>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovemDevv&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JovemDevv&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>        
+    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovemDevv&layout=compact&langs_count=7&theme=merko"/>
           
 </div>
   
